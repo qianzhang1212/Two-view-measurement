@@ -9,7 +9,7 @@ Two-view measurement based on SFM
 1) Check the sensor size and focal length of your phone (https://www.devicespecifications.com/en) 
 Enter the sensor(ccd) width (which is the longer side of the sensor size of your phone).
 2) Select a video
-2) Enter the reference distance got from AR app
+2) Enter the reference distance got from AR [app] (https://github.com/qianzhang1212/ARCoreMeasure)
 3) Select two points as target
 
 3 Notes

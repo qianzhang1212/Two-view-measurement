@@ -1,4 +1,4 @@
-    clear all
+clear all
 close all
 videoFileReader = vision.VideoFileReader('43.mp4');
 framefirst = videoFileReader();
